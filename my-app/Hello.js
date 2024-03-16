@@ -3,7 +3,7 @@ import { StyleSheet, Text, View } from 'react-native';
 export default function Hello() {
     return (
         <View style={styles.container}>
-          <Text style={styles.hello}>Jeff</Text>
+          <Text style={styles.hello}>Hello Jeff !</Text>
         </View>
       );
   };
